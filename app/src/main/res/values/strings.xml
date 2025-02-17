@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GoogleStart</string>
+    <string name="tile_label">GoogleStart</string>
+    <string name="settings_main_title_not_support">Sorry, this device does not support GoogleService</string>
 </resources>
