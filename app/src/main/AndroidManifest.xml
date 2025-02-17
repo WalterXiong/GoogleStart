@@ -22,7 +22,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GoogleStart"
         tools:targetApi="31">
-        <activity
+        <!--<activity
             android:name=".ui.start.GoogleStartActivity"
             android:exported="true">
             <intent-filter>
@@ -30,7 +30,7 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
+        </activity>-->
 
         <service
             android:name=".logic.service.GoogleStartService"
